@@ -1,0 +1,8 @@
+{
+  "testEnv": {
+    "host": "aaa"
+  },
+  "proEnv": {
+    "host": "bbb"
+  }
+}
